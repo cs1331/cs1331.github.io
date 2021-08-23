@@ -13,13 +13,21 @@
 <img src="simpkins-dissertation-cover-page.png" height="500"/>
 </center>
 
-# What I've Done
+# What I do now
+
+<center>
+<img src="The_Weather_Company_IBM_Byline.svg" height="500" />
+</center>
+
+<a href="https://commons.wikimedia.org/wiki/File:The_Weather_Company_IBM_Byline.svg">The Weather Company and IBM</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
+# What I've done
 
 <center>
 <img src="chris-usaf.jpg" width="720"/>
 </center>
 
-# What I Like to Do
+# What I like to do
 
 <center>
 <img src="chris-hobbies.png" width="720"/>
